@@ -22,7 +22,7 @@
 		1FBD3BF11BE5B23900C8C8D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1FBD3BF41BE5B23900C8C8D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1FBD3BF61BE5B23900C8C8D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1FBD3BFC1BE5B2F100C8C8D7 /* miniRetoSemana2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = miniRetoSemana2.playground; sourceTree = SOURCE_ROOT; };
+		1FBD3BFD1BE5BDE900C8C8D7 /* miniRetoSemanaN2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = miniRetoSemanaN2.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +39,7 @@
 		1FBD3BDE1BE5B23900C8C8D7 = {
 			isa = PBXGroup;
 			children = (
+				1FBD3BFD1BE5BDE900C8C8D7 /* miniRetoSemanaN2.playground */,
 				1FBD3BE91BE5B23900C8C8D7 /* miniRetoSemana2 */,
 				1FBD3BE81BE5B23900C8C8D7 /* Products */,
 			);
@@ -55,7 +56,6 @@
 		1FBD3BE91BE5B23900C8C8D7 /* miniRetoSemana2 */ = {
 			isa = PBXGroup;
 			children = (
-				1FBD3BFC1BE5B2F100C8C8D7 /* miniRetoSemana2.playground */,
 				1FBD3BEA1BE5B23900C8C8D7 /* AppDelegate.swift */,
 				1FBD3BEC1BE5B23900C8C8D7 /* ViewController.swift */,
 				1FBD3BEE1BE5B23900C8C8D7 /* Main.storyboard */,
@@ -286,6 +286,7 @@
 				1FBD3BFB1BE5B23900C8C8D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
