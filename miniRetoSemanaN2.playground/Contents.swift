@@ -3,6 +3,8 @@
 import UIKit
 
 //  Created by Marlon de Jesus Gonzalez on 30/10/15.
+//  https://github.com/gonzalezmaw/miniRetoSemana2.git
+
 
 // Disculpen el retraso de esta actividad, pero estuve enfermo y con reposo medico por desprendimiento del 80% de la Cornea en el ojo derecho.
 
